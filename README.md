@@ -27,19 +27,19 @@ In this analysis, I have retrieved the data where the total votes are greater th
 Total number of Paid Vine reviews:- **94** <br>
 Total number of Unpaid Vine reviews:- **40471**
 
-<p align="center"> <img style="border:5px solid black;" src = "Images/vine_reviews.png" width ="40%" "> </p>  
+<p align="center"> <img style="border:5px solid black;" src = "Images/vine_reviews.png" width ="50%" "> </p>  
 
 
 Total number of Paid 5-star Vine reviews:- **48** <br>
 Total number of Unpaid 5-star Vine reviews:- **15663**
 
-<p align="center"> <img style="border:5px solid black;" src = "Images/5star_reviews.png" width ="40%" "> </p>  
+<p align="center"> <img style="border:5px solid black;" src = "Images/5star_reviews.png" width ="50%" "> </p>  
 
 
 % of Paid 5-star Vine reviews:- **51.06** <br>
 % of Unpaid 5-star Vine reviews:- **38.7**
 
-<p align="center"> <img style="border:5px solid black;" src = "Images/percent_reviews.png" width ="40%" "> </p>  
+<p align="center"> <img style="border:5px solid black;" src = "Images/percent_reviews.png" width ="50%" "> </p>  
 
 
 ## <a name="Summary"></a>Analysis Summary
@@ -48,7 +48,7 @@ Total number of Unpaid 5-star Vine reviews:- **15663**
 
 I have also analyzed the data for all star reviews. From the table below we can see that there is a positivity bias for 3-Star, 4-Star and 5-Star reviews. Below is the result table:
 
-<p align="center"> <img style="border:5px solid black;" src = "Images/all_star.png" width ="45%" "> </p>  
+<p align="center"> <img style="border:5px solid black;" src = "Images/all_star.png" width ="65%" "> </p>  
 <p align="center"> <i>All Star reviews table</i> </p>
 
 
